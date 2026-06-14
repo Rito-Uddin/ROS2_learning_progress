@@ -1,3 +1,14 @@
+## [15 Juin 2026] - Système de Transformation (TF2) et URDF
+
+### Objectifs
+- Texte.
+- Texte.
+
+### Ce que j'ai appris & Difficultés résolues
+- **Titre1 :** Texte.
+- **Titre2 :** Texte.
+
+### Commandes clés à retenir
 ## [14 Juin 2026] - Système de Transformation (TF2) et URDF
 
 ### Objectifs
@@ -28,17 +39,3 @@ git push
 
 # Générer le graphe de l'arbre TF
 ros2 run tf2_tools view_frames
-
-
-
-## [14 Juin 2026] - Système de Transformation (TF2) et URDF
-
-### Objectifs
-- Texte.
-- Texte.
-
-### Ce que j'ai appris & Difficultés résolues
-- **Titre1 :** Texte.
-- **Titre2 :** Texte.
-
-### Commandes clés à retenir
